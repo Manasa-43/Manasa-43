@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    Sample commit
+    Sample commit!
 </body>
 </html>
