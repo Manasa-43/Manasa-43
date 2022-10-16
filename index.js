@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    Sample commit!
+    This is for testing purpose
 </body>
 </html>
